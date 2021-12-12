@@ -1,0 +1,3 @@
+{
+  "ami:account=367072688873:filters.image-type.0=machine:filters.name.0=lan-cicd-ami:filters.state.0=available:region=ap-northeast-2": "ami-07bf66f3eec5df550"
+}
