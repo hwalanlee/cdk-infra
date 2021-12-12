@@ -15,3 +15,4 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
 
 git init && git add . && git commit -m "first commit" && git branch -M master && git remote add origin https://github.com/hwalanlee/cdk-infra.git && git push -u origin master
+git add . && git commit -m "first commit" && git push -u origin master
